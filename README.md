@@ -1,5 +1,7 @@
 # FOIA Malaysia — Machine-Readable Rules
 
+Repo: https://github.com/mohdhafizi83/foia-my-rules
+
 Fail peraturan (JSON) yang memetakan sebab-sebab pengecualian (exemption) dan
 kewajipan pendedahan di bawah undang-undang kebebasan maklumat Malaysia, dalam
 format yang boleh dibaca mesin / dimakan LLM sebagai system prompt untuk
