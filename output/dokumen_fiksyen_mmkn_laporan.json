@@ -1,0 +1,47 @@
+{
+  "source": "sample/dokumen_fiksyen_mmkn.pdf",
+  "model": "deepseek-v4-flash",
+  "rules_file": "/home/fizi/projects/foia-my-rules/rules/my-penang-foi-2010.json",
+  "redactions": [
+    {
+      "text": "012-345 6789",
+      "rule_id": "pp-11-1-a",
+      "justification": "Nombor telefon peribadi pihak ketiga (Encik Ahmad Zaki bin Ismail) dilindungi di bawah Seksyen 11(1)(a) sebagai maklumat peribadi.",
+      "applied": true
+    },
+    {
+      "text": "azaki@infrabina.example.my",
+      "rule_id": "pp-11-1-a",
+      "justification": "E-mel peribadi pihak ketiga (Encik Ahmad Zaki bin Ismail) dilindungi di bawah Seksyen 11(1)(a) sebagai maklumat peribadi.",
+      "applied": true
+    },
+    {
+      "text": "01012345678901",
+      "rule_id": "pp-11-1-e",
+      "justification": "Nombor akaun bank syarikat merupakan maklumat kewangan sulit komersial yang dilindungi di bawah Seksyen 11(1)(e) kerana pendedahan boleh memudaratkan kepentingan komersial pihak ketiga.",
+      "applied": true
+    },
+    {
+      "text": "850312-07-5566",
+      "rule_id": "pp-11-1-a",
+      "justification": "Nombor kad pengenalan pihak ketiga (Puan Siti Aisyah binti Omar) dilindungi di bawah Seksyen 11(1)(a) sebagai maklumat peribadi.",
+      "applied": true
+    },
+    {
+      "text": "No. 12, Jalan Permai 3, 14000 Bukit Mertajam",
+      "rule_id": "pp-11-1-a",
+      "justification": "Alamat rumah pihak ketiga (Puan Siti Aisyah binti Omar) dilindungi di bawah Seksyen 11(1)(a) sebagai maklumat peribadi.",
+      "applied": true
+    },
+    {
+      "text": "MMKN pada mesyuarat 14 September 2026 telah membincangkan risiko kelewatan projek dan MELULUSKAN bayaran pampasan tambahan sebanyak RM310,000.00 kepada pemilik tanah. Keputusan ini belum diterbitkan secara rasmi.",
+      "rule_id": "pp-11-1-b",
+      "justification": "Bahagian ini mendedahkan proses deliberasi dan keputusan MMKN yang belum diterbitkan secara rasmi, dilindungi di bawah Seksyen 11(1)(b).",
+      "applied": true
+    }
+  ],
+  "verification": {
+    "survivors": [],
+    "passed": true
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "jurisdiction": "MY-07",
+    "jurisdiction_name": "Pulau Pinang (Penang)",
+    "law_name": "Enakmen Kebebasan Maklumat Pulau Pinang 2010",
+    "law_name_en": "Penang Freedom of Information Enactment 2010",
+    "abbreviation": "FOI-PP",
+    "enactment_number": "Enakmen 16 / 2010",
+    "passed": "2011-11-04",
+    "royal_assent": "2012-01-09",
+    "gazetted": "2012-02-02",
+    "in_force": "2015-01-01",
+    "last_amended": null,
+    "version_date": "2026-10-05",
+    "official_url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf",
+    "oversight_body": "Lembaga Rayuan (Board of Appeal) — Seksyen 13",
+    "language": "ms",
+    "scope": "Jabatan Kerajaan Negeri, Badan Berkanun Negeri dan Pihak Berkuasa Tempatan Pulau Pinang",
+    "notes": "Teks penuh disahkan daripada Warta Kerajaan Pulau Pinang Jil. 56 Tambahan No. 1 (2 Feb 2012), Enakmen 16. Subseksyen 11(2) ialah 'public interest override' wajib."
+  },
+  "rules": [
+    {
+      "id": "pp-11-1-a",
+      "group": "Privasi",
+      "title": "Maklumat peribadi pihak ketiga",
+      "reference": "Seksyen 11(1)(a)",
+      "type": "qualified",
+      "reason": "Pendedahan yang tidak munasabah akan maklumat peribadi pihak ketiga. Pegawai Maklumat boleh menolak untuk mengesahkan existence rekod sekalipun.",
+      "full_text": "Maklumat adalah dikecualikan sekiranya ia adalah maklumat berikut: (a) maklumat peribadi — (i) Pegawai Maklumat boleh menolak untuk menunjukkan sama ada ia memegang sesuatu rekod, atau menolak untuk menyampaikan maklumat, di mana sekiranya dibuat akan melibatkan pendedahan yang tidak munasabah akan maklumat peribadi pihak ketiga. (ii) perenggan (i) tidak terpakai sekiranya— (A) pihak ketiga telah secara efektif memberi kebenaran untuk pendedahan maklumat tersebut; (B) pihak yang membuat permintaan tersebut merupakan penjaga kepada pihak ketiga, atau merupakan waris kadim atau pelaksana wasiat pihak ketiga yang telah meninggal dunia; atau (C) pihak ketiga tersebut telah meninggal dunia lebih daripada dua puluh tahun;",
+      "exceptions_within": [
+        "Kebenaran efektif pihak ketiga",
+        "Penjaga / waris kadim / pelaksana wasiat",
+        "Pihak ketiga telah meninggal >20 tahun"
+      ],
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-11-1-b",
+      "group": "Deliberasi kerajaan",
+      "title": "Maklumat Majlis Mesyuarat Kerajaan Negeri (MMKN/EXCO)",
+      "reference": "Seksyen 11(1)(b)",
+      "type": "qualified",
+      "reason": "Dokumen yang dikemukakan/dicadang untuk pertimbangan MMKN, dokumen rasmi pertimbangan atau keputusan MMKN, draf/ekstrak daripadanya, dan dokumen yang mendedahkan proses deliberasi MMKN.",
+      "full_text": "sesuatu dokumen adalah dokumen yang dikecualikan sekiranya ia— (A) merupakan dokumen yang telah dikemukakan kepada Majlis Mesyuarat Kerajaan Negeri untuk dipertimbangkan, telah dicadangkan oleh Ahli Dewan Undangan Negeri untuk dikemukakan sedemikian atau adalah dokumen yang diwujudkan untuk tujuan dikemukakan untuk pertimbangan Majlis Mesyuarat Kerajaan Negeri; (B) merupakan dokumen rasmi berkenaan pertimbangan atau keputusan Majlis Mesyuarat Kerajaan Negeri; (C) adalah dokumen yang merupakan draf dokumen atau salinan atau sebahagian daripadanya yang mengandungi ekstrak dari dokumen yang dirujuk perenggan (a) atau (b); (D) dokumen yang sekiranya didedahkan akan melibatkan pendedahan sebarang proses pertimbangan atau keputusan yang dibuat oleh Majlis Mesyuarat Kerajaan Negeri, selain daripada dokumen di mana keputusan daripada Majlis Mesyuarat Kerajaan Negeri dengan secara rasminya diterbitkan. (ii) subperenggan (b)(i) tidak terpakai kepada dokumen yang mengandungi statistik, bahan teknikal atau saintifik melainkan sekiranya pendedahan dokumen tersebut akan melibatkan pendedahan pertimbangan dan keputusan yang dibuat oleh MMKN.",
+      "carve_outs": [
+        "Statistik dan bahan teknikal/saintifik TIDAK dikecualikan melainkan pendedahannya mendedahkan deliberasi MMKN",
+        "Keputusan MMKN yang telah diterbitkan rasmi tidak dikecualikan"
+      ],
+      "certification": "Sijil Setiausaha MMKN adalah bukti konklusif (subperenggan b(iii))",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-11-1-c",
+      "group": "Privilej undang-undang",
+      "title": "Privilej profesional dalam prosiding mahkamah",
+      "reference": "Seksyen 11(1)(c)",
+      "type": "qualified",
+      "reason": "Dokumen yang terlindung daripada dikemukakan dalam prosiding Mahkamah atas dasar perlindungan undang-undang profesional (legal professional privilege).",
+      "full_text": "maklumat di dalam prosiding mahkamah sesuatu dokumen adalah dikecualikan sekiranya ia terlindung daripada dikemukakan di dalam satu prosiding Mahkamah di atas dasar perlindungan undang-undang profesional;",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-11-1-d",
+      "group": "Hak istimewa DUN",
+      "title": "Penghinaan terhadap Dewan Undangan Negeri",
+      "reference": "Seksyen 11(1)(d)",
+      "type": "qualified",
+      "reason": "Pengecualian diperlukan untuk mengelak melanggar hak istimewa (privilege) Dewan Undangan Negeri.",
+      "full_text": "pendedahan maklumat yang akan menjadi penghinaan kepada Dewan Undangan Negeri — (i) sesuatu maklumat akan dikategorikan terkecuali sekiranya pengecualian tersebut diperlukan untuk tujuan mengelakkan dari melanggar hak istimewa Dewan Undangan Negeri; (ii) sijil yang telah ditandatangani oleh pihak yang telah diberi kuasa untuk mengesahkan pengecualian menurut subperenggan (i) adalah diperlukan untuk tujuan mengelakkan dari pelanggaran hak istimewa dari Dewan Undangan Negeri dan adalah bukti muktamad; (iii) dalam subperenggan (ii), 'pihak yang telah diberi kuasa' ertinya Speaker Dewan Undangan Negeri;",
+      "certification": "Sijil Speaker DUN adalah bukti muktamad",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-11-1-e",
+      "group": "Kerahsiaan komersial & hubungan luar",
+      "title": "Maklumat sulit",
+      "reference": "Seksyen 11(1)(e)",
+      "type": "qualified",
+      "reason": "Maklumat diperoleh daripada pihak ketiga di mana pendedahan merupakan pecah kepercayaan yang boleh diambil tindakan; rahsia perdagangan; memudaratkan serius kepentingan komersial/kewangan pihak ketiga; atau memudaratkan hubungan dengan kerajaan lain / pertubuhan antarabangsa.",
+      "full_text": "maklumat sulit — Pegawai Maklumat boleh menolak untuk memberikan maklumat sekiranya— (i) maklumat tersebut diperolehi daripada pihak ketiga dan sekiranya ia didedahkan akan merupakan satu pecah kepercayaan yang boleh diambil tindakan perundangan; atau (ii) maklumat tersebut diperolehi secara sulit daripada pihak ketiga dan: (A) mengandungi rahsia perdagangan; atau (B) untuk menyampaikannya, ia berkemungkinan memudaratkan secara serius kepentingan komersial atau kewangan pihak ketiga tersebut; (iii) maklumat sulit yang diterima daripada Kerajaan yang lain atau pertubuhan antarabangsa, dan untuk menyampaikannya akan berkemungkinan menyebabkan memudaratkan hubungan dengan Kerajaan yang lain atau pertubuhan antarabangsa tersebut;",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-11-1-f",
+      "group": "Kepentingan ekonomi",
+      "title": "Maklumat yang membawa kesan kepada ekonomi Negeri",
+      "reference": "Seksyen 11(1)(f)",
+      "type": "qualified",
+      "reason": "Pendedahan akan/berkemungkinan memudaratkan kepentingan ekonomi Kerajaan Negeri atau kepentingan kewangan mana-mana pentadbiran dalam negeri.",
+      "full_text": "maklumat yang membawa kesan kepada ekonomi Negeri — sesuatu maklumat adalah dikecualikan sekiranya pendedahan di bawah Enakmen ini akan/atau berkemungkinan memudaratkan: (i) kepentingan ekonomi Kerajaan Negeri; atau (ii) kepentingan kewangan mana-mana pentadbiran dalam negeri;",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-11-1-g",
+      "group": "Keselamatan nyawa",
+      "title": "Kesihatan dan keselamatan",
+      "reference": "Seksyen 11(1)(g)",
+      "type": "qualified",
+      "reason": "Pendedahan berkemungkinan membahayakan kehidupan, kesihatan dan keselamatan sesiapa.",
+      "full_text": "kesihatan dan keselamatan — Pegawai Maklumat boleh menolak untuk mendedahkan sama ada ia mempunyai dokumen yang dipohon, ataupun tidak, atau menolak untuk menyampaikan maklumat tersebut, sekiranya ia berkemungkinan akan membahayakan kehidupan, kesihatan dan keselamatan sesiapa saja;",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-11-1-h",
+      "group": "Penguatkuasaan undang-undang",
+      "title": "Pencegahan/pengesanan jenayah dan pentadbiran kehakiman",
+      "reference": "Seksyen 11(1)(h)",
+      "type": "qualified",
+      "reason": "Pendedahan berkemungkinan memudaratkan secara serius: pencegahan/pengesanan jenayah; tangkapan/pendakwaan; pentadbiran kehakiman; penaksiran/pengutipan cukai atau duti; operasi kawalan imigresen.",
+      "full_text": "maklumat yang mempengaruhi penguatkuasaan dan pentadbiran undang-undang — Pegawai Maklumat boleh menolak untuk mendedahkan sama ada ia mempunyai dokumen yang dipohon tersebut ataupun tidak, atau untuk menyampaikan maklumat tersebut sekiranya ia berkemungkinan akan memudaratkan secara serius: (i) pencegahan atau pengesanan jenayah; (ii) penangkapan atau pendakwaan pesalah; (iii) pentadbiran kehakiman; (iv) pentaksiran atau pengutipan sebarang cukai atau duti; atau (v) operasi kawalan imigresen;",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-11-1-i",
+      "group": "Hak cipta",
+      "title": "Pelanggaran hak cipta pihak lain",
+      "reference": "Seksyen 11(1)(i)",
+      "type": "qualified",
+      "reason": "Pendedahan berkemungkinan melibatkan pelanggaran hak cipta selain hak cipta Kerajaan Negeri.",
+      "full_text": "pelanggaran hak cipta — Pegawai Maklumat akan menolak untuk mendedahkan maklumat di mana ia berkemungkinan melibatkan pelanggaran hak cipta, selain daripada hak cipta Kerajaan Negeri;",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-11-1-j",
+      "group": "Anti-pengecualian",
+      "title": "Maklumat yang sedia ada kepada orang awam",
+      "reference": "Seksyen 11(1)(j)",
+      "type": "rule_of_disclosure",
+      "reason": "Pegawai Maklumat TIDAK BOLEH menolak pendedahan maklumat yang sudah pun sedia ada kepada orang awam. Ini mengikat — bukan budi bicara.",
+      "full_text": "maklumat yang sedia ada kepada orang awam — walau apa pun yang dinyatakan di dalam seksyen ini, seorang Pegawai Maklumat tidak boleh menolak untuk mendedahkan maklumat, di mana maklumat tersebut sudah pun sedia ada kepada orang awam;",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-11-2",
+      "group": "Public interest override",
+      "title": "Ganding kepentingan awam (wajib)",
+      "reference": "Seksyen 11(2)",
+      "type": "override",
+      "reason": "GANDINGAN KEPENTINGAN AWAM: jabatan HENDAKLAH (wajib) memberi akses kepada maklumat dikecualikan jika kepentingan awam dalam pendedahannya melebihi bahayanya. Kerajaan Negeri juga ada budi bicara untuk mendeklasifikasi.",
+      "full_text": "Walau apa pun yang dinyatakan dalam subseksyen (1), Pihak Berkuasa Negeri hendaklah mempunyai kuasa untuk mendedahkan atau membenarkan pendedahan maklumat yang dikecualikan atau mendeklasifikasikan maklumat sulit dan membenarkan akses kepadanya di atas budi bicaranya: (a) sesuatu jabatan hendaklah memberikan akses kepada maklumat yang dikecualikan kepada pemohon sekiranya kepentingan awam di dalam pendedahannya melebihi bahaya di dalam pendedahannya; (b) Kerajaan Negeri hendaklah mempunyai kuasa untuk mendedahkan atau membenarkan pendedahan maklumat yang dikecualikan atau mendeklasifikasikan maklumat sulit dan membenarkan akses kepadanya di atas budi bicaranya; (c) Pegawai Maklumat boleh membenarkan akses kepada maklumat yang dikecualikan sekiranya maklumat itu diperlukan bagi penyiasatan sesuatu kesalahan atau salah laku daripada hak cipta Kerajaan Negeri.",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    },
+    {
+      "id": "pp-12",
+      "group": "Mekanisme pendedahan",
+      "title": "Pendedahan separa (redaction, bukan penolakan)",
+      "reference": "Seksyen 12",
+      "type": "rule_of_disclosure",
+      "reason": "Jika dokumen mengandungi maklumat dikecualikan, akses TETAP diberikan jika bahagian dikecualikan boleh dibuang/dipadamkan. Pemohon hendaklah dimaklumkan jumlah maklumat yang dipadam. Ini asas teknikal untuk redaction automation.",
+      "full_text": "Walau apa pun yang dinyatakan di dalam seksyen 11, di mana maklumat atau dokumen mengandungi maklumat yang dikecualikan, akses akan walau bagaimanapun diberikan kepada pemohon jika sekiranya maklumat yang dikecualikan boleh dibuang atau dipadamkan daripada maklumat dan dokumen tersebut dan setakat mana yang boleh, pemohon hendaklah dimaklumkan tentang jumlah maklumat yang telah dipadamkan.",
+      "url": "https://www.penang.gov.my/images/pdf/Warta%20Enakmen.pdf"
+    }
+  ]
+}

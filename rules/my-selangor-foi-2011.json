@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "jurisdiction": "MY-08",
+    "jurisdiction_name": "Selangor Darul Ehsan",
+    "law_name": "Enakmen Kebebasan Maklumat (Negeri Selangor) 2011",
+    "law_name_en": "Freedom of Information (State of Selangor) Enactment 2011",
+    "abbreviation": "FOI-SLG",
+    "gazetted": "2011-08-25",
+    "in_force": "2013-03-05",
+    "last_amended": null,
+    "version_date": "2026-10-05",
+    "official_url": "https://www.selangor.gov.my/index.php/pages/view/44",
+    "subsidiary_legislation": [
+      "Peraturan-Peraturan Kebebasan Maklumat (Negeri Selangor) (Akses Kepada Maklumat) 2012",
+      "Kaedah-Kaedah Badan Maklumat Negeri (Negeri Selangor) 2012"
+    ],
+    "oversight_body": "Badan Maklumat Negeri (Seksyen 17)",
+    "language": "ms",
+    "scope": "Jabatan Kerajaan Negeri Selangor, badan berkanun negeri dan pihak berkuasa tempatan",
+    "verification_status": "STRUKTUR DISAHKAN, TEKS PENUH BELUM DISAHKAN",
+    "verification_note": "Struktur 22 seksyen disahkan daripada arkib portal Rasmi Dewan Negeri Selangor (enasel, snapshot 30 Apr 2025) dan Seksyen 14 disahkan melalui jawapan bertulis Dewan Negeri Selangor. TEKS PENUH setiap seksyen belum diperoleh daripada warta rasmi — medan full_text diisi ringkasan berdasarkan struktur & sumber sekunder, dan PERLU disahkan terhadap teks warta sebelum digunakan untuk tujuan rasmi. Jangan gunakan medan full_text ini sebagai kutipan undang-undang."
+  },
+  "rules": [
+    {
+      "id": "slg-11",
+      "group": "Kelayakan asas",
+      "title": "Maklumat tiada dalam milikan",
+      "reference": "Seksyen 11",
+      "type": "threshold",
+      "reason": "Maklumat yang tidak berada dalam milikan/ kawalan jabatan tidak tertakluk kepada enakmen.",
+      "full_text": "BELUM DISAHKAN — struktur sahaja. Rujuk warta rasmi.",
+      "verified": false,
+      "url": "https://www.selangor.gov.my/index.php/pages/view/44"
+    },
+    {
+      "id": "slg-12",
+      "group": "Ketelusan proses",
+      "title": "Permohonan yang menyusahkan, tidak munasabah atau berulang",
+      "reference": "Seksyen 12",
+      "type": "qualified",
+      "reason": "Permohonan yang menyusahkan (vexatious), tidak munasabah atau berulang boleh ditolak.",
+      "full_text": "BELUM DISAHKAN — struktur sahaja.",
+      "verified": false,
+      "url": "https://www.selangor.gov.my/index.php/pages/view/44"
+    },
+    {
+      "id": "slg-13",
+      "group": "Privasi",
+      "title": "Maklumat peribadi orang perseorangan pihak ketiga",
+      "reference": "Seksyen 13",
+      "type": "qualified",
+      "reason": "Pendedahan maklumat peribadi individu ketiga. Kait rapat dengan PDPA 2010.",
+      "full_text": "BELUM DISAHKAN — struktur sahaja.",
+      "verified": false,
+      "url": "https://www.selangor.gov.my/index.php/pages/view/44"
+    },
+    {
+      "id": "slg-14",
+      "group": "Pengecualian utama",
+      "title": "Pengecualian maklumat",
+      "reference": "Seksyen 14",
+      "type": "exemption_list",
+      "reason": "Seksyen pengecualian utama enakmen Selangor. Disahkan wujud melalui jawapan bertulis Dewan Negeri Selangor 2017: 'pengecualian maklumat seperti yang termaktub dalam Seksyen 14, Enakmen yang sama'. Kategori dijangka selari dengan model Pulau Pinang (keselamatan, deliberasi EXCO, komersial, penguatkuasaan) tetapi SENARAI TEPAT BELUM DISAHKAN.",
+      "full_text": "BELUM DISAHKAN — kewujudan seksyen disahkan, senarai kategori belum.",
+      "verified": false,
+      "evidence": [
+        "https://dewan.selangor.gov.my/question/ahli-lembaga-pengarah-badan-berkanun-dan-anak-syarikat-negeri-selangor-2/",
+        "https://dewan.selangor.gov.my/assets/pdf/sessions/2017/Sesi%202/soalan%20bertulis%201702%20Q101-200.pdf"
+      ]
+    },
+    {
+      "id": "slg-15",
+      "group": "Public interest override",
+      "title": "Pengecualian kepada maklumat yang dikecualikan",
+      "reference": "Seksyen 15",
+      "type": "override",
+      "reason": "Peruntukan yang membenarkan pendedahan maklumat yang dikecualikan (setara public interest override Pulau Pinang). Teks tepat belum disahkan.",
+      "full_text": "BELUM DISAHKAN — struktur sahaja.",
+      "verified": false
+    },
+    {
+      "id": "slg-16",
+      "group": "Mekanisme pendedahan",
+      "title": "Pendedahan separa",
+      "reference": "Seksyen 16",
+      "type": "rule_of_disclosure",
+      "reason": "Redaction sebahagian dokumen dan tetap beri akses, setara Seksyen 12 Pulau Pinang. Teks tepat belum disahkan.",
+      "full_text": "BELUM DISAHKAN — struktur sahaja.",
+      "verified": false
+    }
+  ],
+  "process_facts_verified": {
+    "application_fee": "RM12.00 (RM2 permohonan + RM10 deposit fi pemprosesan, tidak dikembalikan)",
+    "response_time_normal": "30 hari dari akuan penerimaan",
+    "response_time_life_liberty": "7 hari (permohonan melibatkan nyawa atau kebebasan individu)",
+    "appeal_window": "21 hari dari tarikh penerimaan keputusan, kepada Badan Maklumat Negeri",
+    "source": "https://www.selangor.gov.my/index.php/pages/view/44 (diakses 2026-10-05)"
+  }
+}

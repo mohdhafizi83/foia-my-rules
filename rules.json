@@ -1,0 +1,19 @@
+{
+  "name": "FOIA Malaysia — Machine-Readable Redaction & Disclosure Rules",
+  "description": "Rules for redacting/disclosing public documents under Malaysian freedom-of-information laws, in the datenlabor-bmz/redaction-rules JSON format. Community-maintained, not an official legal source.",
+  "updated": "2026-10-05",
+  "rule_sets": [
+    {
+      "file": "rules/my-penang-foi-2010.json",
+      "jurisdiction": "MY-07 Pulau Pinang",
+      "law": "Enakmen Kebebasan Maklumat Pulau Pinang 2010 (Enakmen 16)",
+      "status": "verified against official gazette text"
+    },
+    {
+      "file": "rules/my-selangor-foi-2011.json",
+      "jurisdiction": "MY-08 Selangor",
+      "law": "Enakmen Kebebasan Maklumat (Negeri Selangor) 2011",
+      "status": "structure verified; full section texts pending official gazette"
+    }
+  ]
+}
